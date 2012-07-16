@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.ibm.bluez.jcop.eclipse.containers.cardconfig/com.ibm.bluez.jcop.eclipse.cardconfigs.custom;com.ibm.bluez.jcop.eclipse.cardapis.jc211"/>
+	<classpathentry kind="lib" path="sim.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
